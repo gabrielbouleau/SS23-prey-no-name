@@ -3,9 +3,9 @@
 Contributors: 
 
 - [Gabriel Bergeron](https://github.com/gabrielbouleau)
-- [Emmanuelle Barreau]()
+- [Emmanuelle Barreau](https://www.researchgate.net/profile/Emmanuelle-Barreau)
 - [Francois Thibault]()
-- [Irene Roca]()
+- [Irene Roca](https://www.researchgate.net/profile/Irene-Roca)
 - [Matthieu Weiss-Blais]()
 - [Mélisande Teng]()
 
