@@ -34,7 +34,7 @@ elev_rast <- raster::raster("data_raw/map_layers/elevation_raster_espg2959.tif")
   as.data.frame(xy = TRUE) |> 
   filter(elevation_raster_espg2959 > 0)
 
-# Must change the CRS of the raster to match the sf object (refuge and ress)
+# Must change the CRS of the raster to match the sf object (refuge and )
 # Must change the extent of the raster to plot it alongside of the other data
 ggplot() +
   geom_raster(data = elev_rast,
@@ -52,7 +52,8 @@ points(ress_loc$geometry)
 ggplot(ress_loc) + 
   geom_sf(aes(), col = "red") + 
   geom_sf(refu_loc, mapping = aes(), col = "blue") +
-  coord_sf(datum = st_crs(32619)) + 
-  geom_tile(data = elev_rast, 
-            aes(x = x, y = y, fill = value),
-            alpha = 0.8)
+  coord_sf(datum = st_crs(32619)) 
+# + 
+#   geom_tile(data = elev_rast, 
+#             aes(x = x, y = y, fill = value),
+#             alpha = 0.8)
