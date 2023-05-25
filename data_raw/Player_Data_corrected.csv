@@ -1,0 +1,249 @@
+"";"game_id";"player_id";"role";"prey_type";"score";"fate";"killed_by";"reproduced_with";"prey_detected";"pred_detected";"comment";"diet"
+"1";1;"fdb";"prey";"blue";0;"killed";"mff";"";NA;NA;"";NA
+"2";4;"ma";"prey";"blue";30;"survived";"";"";NA;NA;"";"specialist"
+"3";4;"nf";"prey";"red";50;"survived";"";"";NA;NA;"";"generalist"
+"4";4;"gd";"prey";"red";50;"survived";"";"";NA;NA;"";"generalist"
+"5";4;"eb";"prey";"blue";35;"killed";"db";"";NA;NA;"";"specialist"
+"6";4;"ir";"apex";"";1;"survived";"";"";17;NA;"";NA
+"7";4;"ae";"prey";"red";63;"survived";"";"mlsb";NA;NA;"";"generalist"
+"8";4;"mlsp";"prey";"red";69;"survived";"";"ae";NA;NA;"";"generalist"
+"9";4;"fdb";"prey";"blue";40;"survived";"";"";NA;NA;"";"specialist"
+"10";5;"fdb";"apex";"";4;"survived";"";"";13;NA;"Number of detected prey not noted but wrote from memory";NA
+"11";5;"gb2";"prey";"red";0;"killed";"gb1";"";NA;NA;"";NA
+"12";5;"em";"prey";"blue";60;"survived";"";"";NA;NA;"";"specialist"
+"13";5;"mff";"meso";"";2;"survived";"";"";4;NA;"";NA
+"14";4;"aa";"meso";"";0;"killed";"db";"";1;NA;"";NA
+"15";5;"lm";"prey";"blue";5;"killed";"gb1";"";NA;NA;"";"specialist"
+"16";5;"nf";"prey";"red";21;"killed";"cc";"";NA;NA;"";"generalist"
+"17";5;"ma";"prey";"blue";15;"killed";"gb1";"";NA;NA;"";"specialist"
+"18";5;"gb1";"apex";"";7;"survived";"";"";14;NA;"";NA
+"19";2;"pl";"prey";"blue";40;"killed";"cm";"";NA;NA;"";"specialist"
+"20";2;"ft1";"prey";"blue";70;"survived";"";"";NA;NA;"";NA
+"21";2;"cm";"apex";"";2;"survived";"";"";10;NA;"";NA
+"22";2;"em";"meso";"";4;"survived";"";"";8;NA;"";NA
+"23";2;"th";"prey";"";2;"survived";"";"";27;NA;"";"specialist"
+"24";2;"ft2";"prey";"red";68;"survived";"";"";NA;NA;"";"generalist"
+"25";2;"vb";"prey";"red";90;"survived";"";"mff";NA;NA;"";"generalist"
+"26";2;"gb1";"prey";"blue";50;"survived";"";"";NA;NA;"";"specialist"
+"27";2;"cg";"prey";"red";7;"killed";"mlsp";"";NA;NA;"";"generalist"
+"28";2;"ae";"prey";"blue";15;"killed";"em";"";NA;NA;"";"specialist"
+"29";2;"ad";"prey";"blue";0;"killed";"fb";"";NA;NA;"";NA
+"30";2;"ss";"prey";"blue";45;"survived";"";"";NA;NA;"";"specialist"
+"31";2;"fdb";"prey";"blue";70;"survived";"";"";NA;NA;"";"specialist"
+"32";2;"mwb";"prey";"red";53;"survived";"";"eb";NA;NA;"";"generalist"
+"33";2;"cc";"prey";"blue";60;"survived";"";"";NA;NA;"";"specialist"
+"34";2;"rd";"prey";"blue";15;"killed";"th";"";NA;NA;"";"specialist"
+"35";2;"mlsp";"apex";"";1;"survived";"";"";9;NA;"";NA
+"36";3;"lm";"prey";"blue";10;"killed";"dg";"";NA;NA;"";"specialist"
+"37";3;"gb2";"prey";"red";15;"killed";"pl";"";NA;NA;"";"generalist"
+"38";3;"mlsp";"prey";"red";28;"killed";"pl";"";NA;NA;"";"generalist"
+"39";3;"ma";"prey";"red";13;"killed";"dg";"";NA;NA;"";"generalist"
+"40";3;"nf";"prey";"red";17;"killed";"db";"";NA;NA;"";"specialist"
+"41";3;"eb";"prey";"blue";55;"survived";"";"";NA;NA;"";"specialist"
+"42";3;"mt";"prey";"red";56;"survived";"";"ft2";NA;NA;"";"generalist"
+"43";3;"th";"prey";"red";53;"survived";"";"";NA;NA;"";"generalist"
+"44";3;"ft2";"prey";"red";54;"survived";"";"mt";NA;NA;"";"generalist"
+"45";3;"ir";"prey";"blue";30;"survived";"";"";NA;NA;"";"specialist"
+"46";1;"fb";"prey";"blue";55;"survived";"";"";NA;NA;"";"specialist"
+"47";1;"mwb";"prey";"red";28;"starved";"";"";NA;NA;"";"generalist"
+"48";1;"ae";"prey";"red";40;"survived";"";"";NA;NA;"";"generalist"
+"49";1;"cg";"meso";"";2;"survived";"";"";9;NA;"";NA
+"50";1;"gb1";"meso";"";1;"survived";"";"";2;NA;"";NA
+"51";1;"ft2";"prey";"red";32;"survived";"";"";NA;NA;"";"generalist"
+"52";1;"ss";"prey";"red";5;"killed";"mc";"";NA;NA;"";"specialist"
+"53";1;"em";"prey";"red";23;"killed";"mff";"";NA;NA;"";"generalist"
+"54";1;"pl";"prey";"blue";9;"killed";"th";"";NA;NA;"";"specialist"
+"55";1;"rd";"prey";"red";0;"killed";"mff";"";NA;NA;"";NA
+"56";1;"cc";"prey";"blue";25;"killed";"mff";"";NA;NA;"";"specialist"
+"57";1;"ft1";"prey";"red";11;"killed";"cm";"";NA;NA;"";NA
+"58";1;"vb";"prey";"red";65;"survived";"";"";NA;NA;"";"generalist"
+"59";1;"mlsp";"prey";"red";20;"killed";"gb1";"";NA;NA;"";"specialist"
+"60";1;"mff";"apex";"";4;"survived";"";"";9;NA;"";NA
+"61";2;"mff";"prey";"A VOIR";81;"killed";"cm";"vb";NA;NA;"";"generalist"
+"62";3;"vb";"meso";"blue";2;"killed";"db";"";6;NA;"";NA
+"63";3;"aa";"prey";"blue";35;"killed";"db";"";NA;NA;"";"specialist"
+"64";3;"fb";"prey";"blue";10;"killed";"vb";"";NA;NA;"";"specialist"
+"65";3;"gd";"prey";"blue";65;"killed";"dg";"mt";NA;NA;"";"specialist"
+"66";3;"fdb";"prey";"blue";11;"killed";"pl";"";NA;NA;"";"generalist"
+"67";3;"dg";"apex";"";8;"survived";"";"";14;NA;"";NA
+"68";4;"ft2";"prey";"red";10;"killed";"ft1";"";NA;NA;"";"specialist"
+"69";4;"mt";"prey";"red";0;"killed";"ft1";"";NA;NA;"";"generalist"
+"70";4;"th";"prey";"blue";30;"killed";"ft1";"";NA;NA;"";"specialist"
+"71";1;"dg";"prey";"blue";7;"killed";"th";"";NA;NA;"prey type not noted";"generalist"
+"72";1;"df";"prey";"blue";20;"killed";"cg";"";NA;NA;"";"specialist"
+"73";1;"gb2";"prey";"red";68;"survived";"";"";NA;NA;"verify prey type with consumed resources";"generalist"
+"74";1;"ir";"prey";"blue";20;"killed";"th";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"75";1;"mt";"prey";"blue";30;"killed";"cg";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"76";1;"db";"prey";"blue";64;"survived";"";"";NA;NA;"verify prey type with consumed resources";"generalist"
+"77";1;"aa";"prey";"blue";45;"killed";"cg";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"78";1;"lm";"prey";"red";66;"survived";"";"gd";NA;NA;"verify prey type with consumed resources";"generalist"
+"79";1;"gd";"prey";"blue";70;"survived";"";"lm";NA;NA;"verify prey type with consumed resources, reproduction = initials are ln in the app";"specialist"
+"80";1;"th";"apex";"";3;"survived";"";"";16;NA;"";NA
+"81";1;"cm";"apex";"";3;"survived";"";"";11;NA;"";NA
+"82";1;"eb";"prey";"blue";32;"starved";"";"";NA;NA;"verify prey type with consumed resources";"generalist"
+"83";1;"ma";"prey";"blue";15;"starved";"";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"84";1;"nf";"prey";"blue";20;"starved";"";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"85";2;"df";"prey";"blue";62;"killed";"th";"";NA;NA;"verify prey type with consumed resources";"generalist"
+"86";2;"aa";"prey";"blue";40;"killed";"em";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"87";2;"mt";"prey";"blue";30;"killed";"em";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"88";2;"ma";"prey";"blue";40;"killed";"fb";"";NA;NA;"verify prey type with consumed resources";"specialist"
+"89";2;"nf";"prey";"red";4;"killed";"em";"";NA;NA;"verify prey type with consumed resources";NA
+"90";2;"gd";"prey";"red";70;"survived";"";"ir";NA;NA;"verify prey type with consumed resources";"generalist"
+"91";2;"ir";"prey";"blue";65;"survived";"";"gd";NA;NA;"verify prey type with consumed resources";"specialist"
+"92";2;"gb2";"prey";"red";66;"survived";"";"ds";NA;NA;"verify prey type with consumed resources";"generalist"
+"93";2;"lm";"prey";"blue";60;"survived";"";"db";NA;NA;"verify prey type with consumed resources";"specialist"
+"94";2;"db";"prey";"blue";60;"survived";"";"lm";NA;NA;"verify prey type with consumed resources";"specialist"
+"95";2;"eb";"prey";"blue";60;"survived";"";"mwb";NA;NA;"verify prey type with consumed resources";"specialist"
+"96";2;"dg";"prey";"blue";63;"survived";"";"gb2";NA;NA;"verify prey type with consumed resources";"generalist"
+"97";2;"fb";"meso";"";3;"survived";"";"";9;NA;"";NA
+"98";5;"mwb";"prey";"blue";10;"killed";"cc";"";NA;NA;"";"specialist"
+"99";5;"eb";"prey";"red";12;"killed";"";"";NA;NA;"predator not written";"generalist"
+"100";5;"ss";"prey";"red";33;"killed";"fdb";"";NA;NA;"";"generalist"
+"101";5;"cg";"prey";"red";50;"killed";"cc";"";NA;NA;"";"generalist"
+"102";5;"gd";"prey";"blue";30;"killed";"fdb";"";NA;NA;"";"specialist"
+"103";5;"th";"prey";"blue";53;"killed";"fdb";"";NA;NA;"";"specialist"
+"104";5;"mlsp";"prey";"red";57;"killed";"gb1";"";NA;NA;"";"generalist"
+"105";5;"ae";"prey";"blue";65;"killed";"gb1";"";NA;NA;"";"specialist"
+"106";3;"em";"prey";"red";1;"killed";"vb";"";NA;NA;"";"generalist"
+"107";3;"cm";"prey";"blue";50;"survived";"";"";NA;NA;"";"specialist"
+"108";3;"ft1";"prey";"blue";25;"killed";"db";"";NA;NA;"";"specialist"
+"109";3;"gb1";"prey";"red";50;"survived";"";"cc";NA;NA;"";"generalist"
+"110";3;"cg";"prey";"red";5;"killed";"dg";"";NA;NA;"";"specialist"
+"111";3;"ss";"meso";"";0;"killed";"pl";"";2;NA;"";NA
+"112";3;"mwb";"prey";"red";53;"survived";"";"";NA;NA;"";"generalist"
+"113";3;"ae";"prey";"red";7;"killed";"dg";"";NA;NA;"";"generalist"
+"114";3;"mff";"prey";"blue";15;"killed";"db";"";NA;NA;"";"specialist"
+"115";3;"rd";"prey";"blue";20;"killed";"dg";"";NA;NA;"";"specialist"
+"116";3;"cc";"prey";"red";54;"survived";"";"gb1";NA;NA;"";"generalist"
+"117";3;"db";"apex";"";4;"survived";"";"";16;NA;"";NA
+"118";3;"pl";"apex";"";4;"survived";"";"";9;NA;"";NA
+"119";4;"mwb";"prey";"red";26;"killed";"db";"";NA;NA;"";"generalist"
+"120";4;"ss";"prey";"red";28;"killed";"em";"";NA;NA;"";"generalist"
+"121";4;"gb2";"prey";"red";35;"killed";"db";"";NA;NA;"";"generalist"
+"122";4;"cm";"prey";"red";11;"killed";"db";"";NA;NA;"";"specialist"
+"123";4;"gb1";"prey";"blue";90;"survived";"";"mff";NA;NA;"";"specialist"
+"124";4;"mff";"prey";"blue";70;"killed";"ft1";"gb1";NA;NA;"";"specialist"
+"125";4;"em";"meso";"";1;"survived";"";"";11;NA;"";NA
+"126";4;"rd";"prey";"red";84;"survived";"";"cc";NA;NA;"";"generalist"
+"127";4;"cg";"prey";"red";118;"survived";"";"";NA;NA;"";"generalist"
+"128";4;"cc";"prey";"red";76;"survived";"";"rd";NA;NA;"";"generalist"
+"129";4;"ft1";"apex";"";5;"survived";"";"";12;NA;"";NA
+"130";4;"lm";"prey";"blue";50;"survived";"";"";NA;NA;"";"specialist"
+"131";4;"db";"apex";"";5;"survived";"";"";13;NA;"";NA
+"132";4;"pl";"prey";"blue";19;"killed";"ir";"";NA;NA;"";"generalist"
+"133";5;"db";"prey";"blue";40;"killed";"fdb";"";NA;NA;"";"specialist"
+"134";5;"ft1";"prey";"red";21;"killed";"gb1";"";NA;NA;"";NA
+"135";5;"rd";"prey";"blue";20;"killed";"gb1";"";NA;NA;"";"specialist"
+"136";5;"pl";"prey";"red";31;"killed";"mff";"";NA;NA;"";"generalist"
+"137";5;"cc";"apex";"";3;"survived";"";"";9;NA;"";NA
+"138";5;"cm";"prey";"red";51;"survived";"";"";NA;NA;"";"generalist"
+"139";4;"fb";"prey";"blue";20;"killed";"ft1";"";NA;NA;"";"specialist"
+"140";6;"nf";"prey";"red";18;"killed";"ft1";"";NA;NA;"";"generalist"
+"141";6;"em";"apex";"";7;"survived";"";"";20;NA;"";NA
+"142";6;"fb";"apex";"";3;"survived";"";"";9;NA;"";NA
+"143";6;"cg";"prey";"blue";50;"killed";"";"";NA;NA;"";"specialist"
+"144";6;"sg";"prey";"blue";75;"survived";"";"gb1";NA;NA;"";"specialist"
+"145";6;"eb";"prey";"blue";45;"survived";"";"";NA;NA;"";"specialist"
+"146";6;"ft2";"prey";"red";55;"survived";"";"";NA;NA;"";"generalist"
+"147";6;"th";"prey";"blue";50;"survived";"";"";NA;NA;"";"specialist"
+"148";6;"gb1";"prey";"blue";50;"killed";"";"sg";NA;NA;"";"specialist"
+"149";6;"ir";"prey";"blue";40;"killed";"";"";NA;NA;"";"specialist"
+"150";6;"mwb";"prey";"red";42;"killed";"";"";NA;NA;"";"generalist"
+"151";6;"ss";"prey";"blue";50;"survived";"";"";NA;NA;"";NA
+"152";6;"ak";"prey";"red";6;"killed";"";"";NA;NA;"";"generalist"
+"153";6;"mlsp";"prey";"red";0;"killed";"";"";NA;NA;"";NA
+"154";6;"mlg";"prey";"red";NA;"killed";"";"";NA;NA;"";"generalist"
+"155";7;"ft1";"prey";"red";1;"killed";"";"";NA;NA;"";"generalist"
+"156";7;"nf";"prey";"blue";10;"killed";"";"";NA;NA;"";"generalist"
+"157";7;"mlsp";"prey";"red";18;"killed";"";"";NA;NA;"";"generalist"
+"158";7;"ma";"prey";"blue";25;"killed";"dg";"";NA;NA;"";"generalist"
+"159";7;"ir";"prey";"red";0;"killed";"";"";NA;NA;"";NA
+"160";7;"fdb";"prey";"red";16;"killed";"";"";NA;4;"";"generalist"
+"161";7;"cc";"prey";"red";6;"killed";"";"";NA;NA;"";"generalist"
+"162";6;"fdb";"prey";"red";60;"survived";"cc";"";NA;3;"";"generalist"
+"163";7;"aa";"prey";"red";5;"killed";"";"";NA;NA;"";"specialist"
+"164";7;"rd";"meso";"";1;"killed";"dg";"";4;NA;"";NA
+"165";7;"mwb";"prey";"blue";25;"starved";"";"";NA;4;"";"specialist"
+"166";7;"gb1";"prey";"red";53;"survived";"";"";NA;NA;"I was at patch 26 instead on 27";"generalist"
+"167";7;"em";"prey";"blue";20;"killed";"";"";NA;7;"";"specialist"
+"168";7;"cm";"meso";"";3;"survived";"";"";NA;5;"";NA
+"169";7;"sg";"prey";"blue";30;"survived";"";"";NA;NA;"";"specialist"
+"170";7;"fb";"prey";"blue";35;"survived";"";"";NA;NA;"";"specialist"
+"171";7;"db";"prey";"red";47;"survived";"";"";3;NA;"";"generalist"
+"172";7;"ae";"prey";"";0;"killed";"";"";NA;NA;"";NA
+"173";7;"ft2";"apex";"";4;"survived";"";"";9;NA;"";NA
+"174";7;"ss";"prey";"blue";0;"killed";"ft2";"";NA;NA;"";NA
+"175";7;"th";"apex";"";3;"survived";"";"";NA;NA;"";NA
+"176";7;"eb";"prey";"blue";5;"killed";"th";"";13;NA;"";"specialist"
+"177";7;"gb2";"prey";"red";55;"survived";"";"lm";NA;NA;"";NA
+"178";8;"ae";"prey";"red";2;"killed";"rd";"";NA;NA;"";"specialist"
+"179";8;"gb2";"prey";"red";2;"killed";"rd";"";NA;NA;"";NA
+"180";8;"fb";"prey";"blue";20;"killed";"cc";"";NA;NA;"";"specialist"
+"181";8;"eb";"prey";"red";22;"killed";"mwb";"";NA;NA;"";"generalist"
+"182";8;"cc";"meso";"";1;"killed";"mwb";"";1;NA;"";NA
+"183";8;"mlsp";"prey";"red";50;"killed";"mwb";"cm";NA;NA;"";"generalist"
+"184";8;"ma";"prey";"blue";15;"killed";"mwb";"";NA;NA;"";"specialist"
+"185";8;"ak";"prey";"blue";20;"survived";"";"pl";NA;NA;"";"specialist"
+"186";8;"mlg";"prey";"red";9;"killed";"mwb";"";NA;NA;"";"generalist"
+"187";8;"th";"prey";"blue";45;"survived";"";"";NA;NA;"";"specialist"
+"188";8;"sg";"prey";"red";45;"survived";"";"";NA;NA;"";"generalist"
+"189";8;"cm";"prey";"red";50;"survived";"";"mlsp";NA;NA;"";"generalist"
+"190";8;"ft2";"prey";"red";55;"killed";"mwb";"";NA;NA;"";"generalist"
+"191";8;"pl";"prey";"red";51;"survived";"";"ft1";NA;NA;"also mated with akiko kato even though it's not allowed to mate twice";"generalist"
+"192";8;"mwb";"apex";"";8;"survived";"";"";18;NA;"";NA
+"193";8;"ft1";"prey";"red";53;"survived";"";"pl";NA;NA;"";"generalist"
+"194";8;"fdb";"prey";"red";53;"survived";"";"";NA;NA;"";"generalist"
+"195";9;"eb";"prey";"red";8;"killed";"pl";"";NA;NA;"";"generalist"
+"196";9;"ae";"prey";"red";17;"killed";"db";"";NA;NA;"";"generalist"
+"197";9;"aa";"prey";"blue";35;"killed";"lm";"";NA;NA;"";"specialist"
+"198";9;"cg";"prey";"blue";55;"survived";"";"ak";NA;NA;"";"specialist"
+"199";9;"ma";"prey";"blue";25;"killed";"db";"";NA;NA;"";"specialist"
+"200";9;"nf";"prey";"red";51;"";"";"mwb";NA;NA;"";"generalist"
+"201";9;"mwb";"prey";"red";51;"survived";"";"nf";NA;NA;"";"generalist"
+"202";8;"gb1";"prey";"blue";52;"survived";"";"dg";NA;NA;"";"generalist"
+"203";8;"dg";"prey";"blue";52;"survived";"";"gb1";NA;NA;"";NA
+"204";9;"rd";"prey";"blue";55;"killed";"cm";"";NA;NA;"written 50 points in Pierre's notebook";NA
+"205";9;"db";"meso";"";2;"killed";"";"";5;NA;"";NA
+"206";9;"lm";"apex";"";8;"survived";"";"";NA;NA;"";NA
+"207";9;"gb1";"prey";"red";54;"survived";"";"dg";NA;NA;"";"generalist"
+"208";6;"cm";"prey";"red";30;"killed";"em";"";NA;NA;"";"generalist"
+"209";6;"ft1";"meso";"";3;"killed";"em";"";4;NA;"";NA
+"210";6;"gd";"prey";"blue";0;"killed";"ft1";"";NA;NA;"";NA
+"211";6;"gb2";"prey";"red";2;"killed";"em";"";NA;NA;"";NA
+"212";6;"rd";"prey";"blue";50;"killed";"em";"";NA;NA;"";NA
+"213";6;"dg";"prey";"blue";50;"survived";"";"db";NA;NA;"";NA
+"214";6;"db";"prey";"red";50;"survived";"";"dg";NA;4;"";"generalist"
+"215";6;"ae";"prey";"blue";30;"survived";"";"";NA;NA;"";"specialist"
+"216";6;"aa";"prey";"blue";50;"survived";"";"lm";NA;NA;"";"specialist"
+"217";6;"pl";"prey";"red";56;"survived";"";"";NA;NA;"";"generalist"
+"218";6;"lm";"prey";"blue";55;"survived";"";"aa";NA;NA;"";"specialist"
+"219";6;"ma";"prey";"blue";54;"survived";"";"";NA;NA;"";"generalist"
+"220";6;"cc";"prey";"blue";50;"survived";"";"fdb";NA;NA;"";"specialist"
+"221";7;"cg";"prey";"blue";20;"killed";"ft2";"";NA;NA;"";"generalist"
+"222";7;"pl";"prey";"red";0;"killed";"rd";"";NA;NA;"";"specialist"
+"223";7;"gd";"prey";"blue";35;"killed";"dg";"";NA;NA;"";"specialist"
+"224";8;"cg";"prey";"red";5;"killed";"mwb";"";NA;NA;"";"specialist"
+"225";8;"aa";"prey";"blue";25;"killed";"mwb";"";NA;NA;"";"generalist"
+"226";8;"ss";"prey";"blue";45;"killed";"rd";"";NA;NA;"";NA
+"227";8;"em";"prey";"blue";30;"survived";"";"";NA;1;"";"specialist"
+"228";8;"rd";"apex";"apex";3;"survived";"";"";9;NA;"";NA
+"229";8;"lm";"prey";"blue";35;"survived";"";"";NA;NA;"";"specialist"
+"230";8;"db";"prey";"red";52;"survived";"";"ir";NA;1;"";"generalist"
+"231";8;"gd";"prey";"blue";25;"starved";"";"";NA;NA;"";"specialist"
+"232";9;"cm";"prey";"red";18;"killed";"ss";"";NA;NA;"";"generalist"
+"233";9;"gd";"prey";"blue";25;"killed";"ft1";"";NA;NA;"";"specialist"
+"234";9;"mlsp";"prey";"red";18;"killed";"ft1";"";NA;NA;"";"generalist"
+"235";9;"th";"prey";"blue";10;"killed";"ft1";"";NA;NA;"";"specialist"
+"236";9;"fb";"prey";"blue";20;"killed";"lm";"";NA;NA;"";"specialist"
+"237";9;"pl";"meso";"";1;"killed";"lm";"";5;NA;"";NA
+"238";9;"ft2";"prey";"red";0;"killed";"ft1";"";NA;NA;"";NA
+"239";9;"sg";"prey";"blue";0;"killed";"ft1";"";NA;NA;"";NA
+"240";9;"em";"prey";"blue";45;"killed";"ft1";"";NA;NA;"";"specialist"
+"241";9;"ss";"apex";"";1;"";"";"";11;NA;"";NA
+"242";9;"ft1";"apex";"";6;"";"";"";19;NA;"";NA
+"243";9;"dg";"prey";"blue";55;"survived";"";"gb1";NA;NA;"";NA
+"244";9;"gb2";"prey";"red";42;"survived";"";"";NA;NA;"";NA
+"245";9;"cc";"prey";"red";42;"killed";"lm";"";NA;NA;"";"generalist"
+"246";9;"ak";"prey";"red";61;"killed";"lm";"cg";NA;NA;"";"generalist"
+"247";9;"ir";"prey";"blue";35;"survived";"";"";NA;NA;"";"specialist"
+"248";9;"fdb";"prey";"blue";17;"killed";"lm";"";NA;NA;"";"specialist"
